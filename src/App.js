@@ -1,4 +1,4 @@
-import Dicionary from "./components/Dicionary";
+import Dictionary from "./components/Dictionary";
 import './App.css';
 
 function App() {
@@ -9,11 +9,11 @@ function App() {
           <h1 className="heading">Dictionary</h1>
         </header>
         <main>
-          <Dicionary defaultKeyword="aesthetic"/>
+          <Dictionary defaultKeyword="aesthetic" />
         </main>
         <footer className="mt-5 footer">
-          <p className="m-0 credit">Coded by <a href="https://github.com/s-shemmee" target="_blank"> Chaimae Lamirine</a>, 
-          <a href="https://github.com/shemmee/Dictionary-React-App" target="_blank">Open sourced on Github.</a> Hosted on Vercel
+          <p className="m-0 credit">Coded by <a href="https://github.com/s-shemmee" target="_blank"> Chaimae Lamirine</a>,
+            <a href="https://github.com/shemmee/Dictionary-React-App" target="_blank">Open sourced on Github.</a> Hosted on Vercel
           </p>
         </footer>
       </div>
