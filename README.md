@@ -8,7 +8,7 @@ The React Dictionary App is a web application developed using React.js. It allow
 - Offers example sentences to understand the word's usage in context.
 - Displays synonyms and antonyms to expand vocabulary and improve language skills.
 - Includes images related to the searched word for visual representation and better understanding.
-- 
+  
 # Technologies & Tools Used
 - React.js
 - HTML
