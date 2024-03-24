@@ -12,7 +12,7 @@ function App() {
           <Dictionary defaultKeyword="aesthetic" />
         </main>
         <footer className="mt-5 footer">
-          <p className="m-0 credit">Coded by <a href="https://github.com/swarnimk-10" target="_blank">Swarnim Kumari</a>
+          <p className="m-0 credit">Coded by<a href="https://github.com/swarnimk-10" target="_blank">Swarnim Kumari</a>
           </p>
         </footer>
       </div>
